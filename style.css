@@ -1,0 +1,23 @@
+.header{
+    background-color: #4682A9;
+}
+
+.header-item{
+    color: #F6F4EB;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background-color: #F6F4EB;
+}
+
+.profile-img {
+    height: 200px;
+    border-radius: 50%;
+}
+
+h1{
+    color: #749BC2;
+}
