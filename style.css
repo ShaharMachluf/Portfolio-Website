@@ -21,3 +21,23 @@ body{
 h1{
     color: #749BC2;
 }
+
+h2{
+    color: #749BC2;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #91C8E4;
+    color: white;
+}
+
+.resume-title{
+    font-weight: bold;
+}
+
+.date{
+    font-style: italic;
+}
