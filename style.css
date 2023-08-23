@@ -40,3 +40,7 @@ h2{
 .date{
     font-style: italic;
 }
+
+.nav-link:hover{
+    color: black;
+}
